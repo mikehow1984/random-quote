@@ -1,0 +1,55 @@
+body {
+  background-color: cyan;
+}
+header{
+  font-size: 50px;
+  text-align: center;
+}
+#desc{
+  font-size: 24px;
+  text-align: center;
+  font-family: "Times New Roman", Verdana, Georgia, serif;
+  font-style: italic;
+}
+
+input {
+  text-align: center;
+  font-size: 24px;
+  margin: 10px 0px;
+  padding: 5px 30px;
+  text-align: center;
+  border: solid;
+  border-radius: 8px;
+}
+#button{
+  text-align: center;
+  font-family: Verdana, Georgia, serif;
+}
+
+#quote-box {
+  font-family: Georgia, serif;
+  padding: auto;
+  margin: auto;
+  width: 70%;
+  border: solid #000000;
+  text-align: center;
+  color: #000000;
+  background-color: #e0ffff;
+}
+#author{
+  font-style: italic;
+  margin: 5px 0px 0px 0px;
+}
+#tweet{
+  text-align: center;
+  margin: 10px;
+}
+#tweet-button{
+  text-align: center;
+  padding: 5px 10px;
+  text-decoration: none;
+  color: #000000;
+  border: solid;
+
+  background-color: gray;
+}
